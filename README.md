@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# ScatterSpell
+An exhilarating word game inspired by the classic Scattergories. Put your linguistic skills to the test as you race against the clock to come up with words that match given categories and start with a randomly generated letter. It's a thrilling journey of quick thinking, creativity, and wordplay!
+>>>>>>> be384709661bf5b3cc0fa687fba98cf30ae5fd84
